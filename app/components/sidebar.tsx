@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          NextChat
+          ChatGPT 快如闪电
         </div>
         <div className={styles["sidebar-sub-title"]}>
           Build your own AI assistant.
@@ -217,9 +217,7 @@ export function SideBar(props: { className?: string }) {
             </Link>
           </div>
           <div className={styles["sidebar-action"]}>
-            <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
-              <IconButton icon={<GithubIcon />} shadow />
-            </a>
+            <a href="https://enna.eu.org" target="_blank">商店</a> | <a href="https://gitlab.com/xiaowansm/img/-/raw/main/pictures/2023/10/16_11_44_36_Wechat.png" target="_blank">联系我</a>
           </div>
         </div>
         <div>
