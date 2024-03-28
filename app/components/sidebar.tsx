@@ -217,7 +217,7 @@ export function SideBar(props: { className?: string }) {
             </Link>
           </div>
           <div className={styles["sidebar-action"]}>
-            <a href="https://enna.eu.org" target="_blank">商店</a> | <a href="https://gitlab.com/xiaowansm/img/-/raw/main/pictures/2023/10/16_11_44_36_Wechat.png" target="_blank">联系我</a>
+            <a href="https://shop.wwang.pw" target="_blank">商店</a> | <a href="https://gitlab.com/xiaowansm/img/-/raw/main/pictures/2023/10/16_11_44_36_Wechat.png" target="_blank">联系我</a>
           </div>
         </div>
         <div>
